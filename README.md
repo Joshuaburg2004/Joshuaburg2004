@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Joshuaburg2004
-- 👀 I’m interested in C# and python programming, with java as a side project
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# programming, with experience in all of Python, javascript, typescript and Java to boot.
+- 🌱 I’m currently experimenting with CI/CD pipelines and figuring out ReactJS
 
