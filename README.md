@@ -1,2 +1,3 @@
 - Hi, I’m @Joshuaburg2004
 - I’m interested in C# programming, with experience in all of Python, PHP, javascript, typescript and Java to boot.
+- Also see [my codeberg profile](https://codeberg.org/joshuaburg)
